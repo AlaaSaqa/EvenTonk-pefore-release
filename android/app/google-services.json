@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598020976184",
+    "project_id": "chat-25520",
+    "storage_bucket": "chat-25520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598020976184:android:d911c1034190b7b40400cd",
+        "android_client_info": {
+          "package_name": "com.fooddeliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598020976184-jthc6svbti2eai2jlfalumkg09mn5sjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjK6grcIxiI7JffWKKr01usHjSm-Gz4RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598020976184-jthc6svbti2eai2jlfalumkg09mn5sjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
